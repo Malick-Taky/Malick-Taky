@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kongo Abdoul Malick Taky</h1>
 <h3 align="center">A passionate 💙 Front-end developer 💙 Back-end developer 💛 JavaScript developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=malick-taky" alt="malick-taky" /></a> </p>
-
 - 🌱 I’m currently learning **JavaScript**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, GitHub**
